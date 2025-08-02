@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- React blue background -->
+  <rect width="32" height="32" rx="6" fill="#61DAFB"/>
+  <!-- React logo atoms -->
+  <g transform="translate(16,16)" stroke="#20232A" stroke-width="1.5" fill="none">
+    <!-- Electron orbits -->
+    <ellipse rx="10" ry="4" transform="rotate(0)"/>
+    <ellipse rx="10" ry="4" transform="rotate(60)"/>
+    <ellipse rx="10" ry="4" transform="rotate(120)"/>
+    <!-- Nucleus -->
+    <circle r="1.5" fill="#20232A"/>
+  </g>
+  <!-- TypeScript accent -->
+  <rect x="20" y="2" width="8" height="8" rx="1" fill="#3178C6"/>
+  <text x="24" y="8" text-anchor="middle" fill="white" font-family="Arial" font-size="6" font-weight="bold">TS</text>
+</svg>
